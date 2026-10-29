@@ -1,8 +1,7 @@
 # Data science collaboration
 
 ## Project question?
-What question will our team investigate?
-
+Is fertility a mult-domain problem
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
