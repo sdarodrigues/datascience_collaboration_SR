@@ -2,6 +2,12 @@
 
 ## Project question?
 Is fertility a mult-domain problem
+
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+
+## Methods section
+
+blav bla vlav
+
