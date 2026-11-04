@@ -9,3 +9,6 @@ What question will our team investigate?
 
 ## Research Question
 Is there a relationship between environmental exposures and infertility?
+
+#Methods section
+fsdfdsf
